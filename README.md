@@ -1,4 +1,5 @@
 # IO_git_lab
 # Robert Dudek
 # 31.10.2018
-# Changed
+# Change 1
+# Change 3
