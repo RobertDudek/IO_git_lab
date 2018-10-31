@@ -1,3 +1,4 @@
+//Change 2
 public class Bicycle {
         
     // the Bicycle class has
